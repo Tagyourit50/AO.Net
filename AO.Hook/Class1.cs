@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AO.Core
+namespace AO.Hook
 {
-    public class PlayerController
+    public class Class1
     {
-
     }
 }
